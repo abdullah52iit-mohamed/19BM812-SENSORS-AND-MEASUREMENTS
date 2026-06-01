@@ -35,9 +35,11 @@ force applied.
 
 
 # TABLE
-<img width="978" height="408" alt="image" src="https://github.com/user-attachments/assets/217a997b-b246-4af2-8d4c-47650c2eb564" />
+<img width="1151" height="1600" alt="WhatsApp Image 2026-05-28 at 8 46 04 PM" src="https://github.com/user-attachments/assets/82581bd7-fbad-4aaf-83ba-1cb0c1dcd0ac" />
 
 # GRAPH:
+<img width="1216" height="1600" alt="WhatsApp Image 2026-05-28 at 8 46 04 PM (1)" src="https://github.com/user-attachments/assets/9627a605-5f4b-4550-9c36-580ca1369846" />
+<img width="1224" height="1600" alt="WhatsApp Image 2026-05-28 at 8 46 05 PM" src="https://github.com/user-attachments/assets/e411a80b-1f57-4517-9e8a-13637037b4a3" />
 
 
 # RESULT

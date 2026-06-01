@@ -1,4 +1,3 @@
-
 ## CHARACTERISTICS OF RTD
 # AIM
 To study the characteristics of Resistance temperature detector (RTD)
@@ -32,7 +31,7 @@ i)Resistance-Temperature for RTD
 
 
 # TABULATION
-<img width="1090" height="398" alt="image" src="https://github.com/user-attachments/assets/6f8cf33b-cef7-46f3-9d9b-01c49096f714" />
+<img width="1113" height="1600" alt="WhatsApp Image 2026-05-28 at 8 45 43 PM" src="https://github.com/user-attachments/assets/b72ac2d2-8a62-40b0-97df-ba2e22754ca8" />
 
 
 
@@ -41,6 +40,7 @@ i)Resistance-Temperature for RTD
 
 
 # GRAPH:
+<img width="1208" height="1599" alt="WhatsApp Image 2026-05-28 at 8 45 43 PM (1)" src="https://github.com/user-attachments/assets/af77ed87-783e-4444-bb35-bdb4b6333594" />
 
 
 # RESULT
